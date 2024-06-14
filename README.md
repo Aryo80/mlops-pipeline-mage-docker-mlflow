@@ -3,10 +3,9 @@
 
 
 
-
-
 This repository contains a comprehensive walkthrough of setting up and running a data pipeline using Mage AI, Docker Compose, and MLflow. The pipeline involves data ingestion, preparation, model training with linear regression, and model registration using MLflow for reproducibility.
 
+![image](https://github.com/Aryo80/mlops-pipeline-mage-docker-mlflow/assets/55058593/09a08a30-f71d-48c7-ba59-694fe94a977f)
 
 
 ## Overview
