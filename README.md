@@ -7,7 +7,7 @@
 
 This repository contains a comprehensive walkthrough of setting up and running a data pipeline using Mage AI, Docker Compose, and MLflow. The pipeline involves data ingestion, preparation, model training with linear regression, and model registration using MLflow for reproducibility.
 
-![image](https://github.com/Aryo80/mlops-zoomcamp-mage/assets/55058593/3750d9d1-0e06-45a2-91d1-106416d7dc5b)
+
 
 ## Overview
 
@@ -145,7 +145,8 @@ networks:
 5. **MLflow Integration**
    - Save the trained model and `DictVectorizer` artifacts using MLflow.
    - Ensure model reproducibility and version control with MLflow tracking.
-     ![image](https://github.com/Aryo80/mlops-zoomcamp-mage/assets/55058593/8f777a63-9d2c-45f9-abc0-ac4398376093)
+   ![image](https://github.com/Aryo80/mlops-pipeline-mage-docker-mlflow/assets/55058593/f5c2c033-e169-4d54-9b5f-7a74232b65b6)
+
 
 
 ## Technical Highlights
