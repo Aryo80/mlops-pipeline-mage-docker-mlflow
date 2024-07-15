@@ -1,4 +1,4 @@
-# Mage AI Pipeline and MLflow Monitoring with Docker 
+# Mage AI Pipeline and MLflow Experiment/Tracking in the Docker 
 
 
 
